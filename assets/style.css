@@ -1,0 +1,21 @@
+.table{
+    background: url(./img/img1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 20px;
+    margin: 20px;
+    overflow: hidden;
+    padding: 40px!important;
+}
+td{
+    font-weight: light;
+    text-align: center;
+    font-family: monospace;
+}
+.title{
+    font-family: popins;
+    text-decoration-line: underline;
+    font-size: 20px;
+    color: rgb(202, 40, 67);
+}
